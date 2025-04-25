@@ -1,15 +1,11 @@
-<center>
+# CToDo
 
-![HimaTodo](assets/images/logo-192.png "HimaTodo")
-# HimaTodo
-
-<hr>
-</center>
-
-HimaTodo is a web app to manage to do lists in the browser made by Hima-Pro.
+CTodo is a web app to manage ToDo lists in the browser.
 
 ## Demo
-- [Github Pages](https://hima-pro.github.io/HimaTodo/)
+
+- [Github Pages](https://codjix.github.io/ctodo/)
 
 ## License
+
 - [MIT License](LICENSE)
